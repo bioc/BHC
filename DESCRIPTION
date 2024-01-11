@@ -1,7 +1,7 @@
 Package: BHC
 Type: Package
 Title: Bayesian Hierarchical Clustering
-Version: 1.55.0
+Version: 1.55.1
 Date: 2011-09-07
 Author: Rich Savage, Emma Cooke, Robert Darkins, Yang Xu
 Maintainer: Rich Savage <r.s.savage@warwick.ac.uk>
@@ -9,3 +9,4 @@ Description: The method performs bottom-up hierarchical clustering, using a Diri
 License: GPL-3
 biocViews: Microarray, Clustering
 Packaged: 2011-11-18 09:26:53 UTC; richsavage
+PackageStatus: Deprecated
